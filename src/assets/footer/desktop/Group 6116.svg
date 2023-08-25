@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g data-name="Group 6116">
+        <g data-name="Group 6115">
+            <g data-name="Group 6089">
+                <path data-name="Rectangle 2664" style="fill:#034c81" d="M0 0h40v40H0z"/>
+            </g>
+        </g>
+        <path data-name="Icon ionic-md-call" d="M34.7 26.709a20.853 20.853 0 0 1-6.307-.977 1.662 1.662 0 0 0-1.777.444l-3.909 3.908a26.718 26.718 0 0 1-11.722-11.726l3.909-3.908a1.851 1.851 0 0 0 .444-1.777 19.322 19.322 0 0 1-1.066-6.4A1.782 1.782 0 0 0 12.5 4.5H6.277A1.782 1.782 0 0 0 4.5 6.277a30.179 30.179 0 0 0 30.2 30.2 1.782 1.782 0 0 0 1.781-1.777v-6.215a1.782 1.782 0 0 0-1.781-1.776z" transform="translate(-.49 -.49)" style="fill:#fff"/>
+    </g>
+</svg>
