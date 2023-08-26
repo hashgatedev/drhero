@@ -1,12 +1,10 @@
 import React, { useState, useEffect } from "react";
-import DesktopBanner from '../../../assets/desktop 2.png';
-import MobileBanner from '../../../assets/online_doctor.png';
+// import DesktopBanner from '../../../assets/desktop 2.png';
+// import MobileBanner from '../../../assets/online_doctor.png';
 import Playstore from '../../../assets/playstore.png';
 import Appstore from '../../../assets/appstore.png'
 import './down.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
-// Your JSX code follows here
 
 
 const Banner = () => {

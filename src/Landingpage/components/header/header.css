@@ -42,7 +42,7 @@
     font-weight: 500;
     background-image: linear-gradient(to right, #47C0C1, #034C81);
     position: sticky;
-    top: 20px; /* Adjust this value to your preference */
+    top: 20px; 
     z-index: 99;
     cursor: pointer;
 }
@@ -50,7 +50,6 @@
   
 /* Media queries */
 @media only screen and (max-width: 768px) {
-    /* Hide right logos on small screens */
     .store{
         display: none;
     }
