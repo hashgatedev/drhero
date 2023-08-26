@@ -1,0 +1,14 @@
+/* App.css */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f0f0; /* Adjust as needed */
+}
+
+.center-content {
+  max-width: 1920px;
+  width: 100%;
+  padding: 0 ; /* Optional padding on the sides */
+}

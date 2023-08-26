@@ -1,0 +1,225 @@
+
+.responsive-image{
+    max-width: 191px;
+}
+.social img{
+    margin: 0 20px 0 0;
+}
+.footer_terms{
+    padding:12px 0 38px;
+}
+@media only screen and (max-width:768px){
+    .footer_part {
+        display:flex;
+        justify-content:center;
+        padding: 28px 20px;
+
+    }
+    .footer_part img{
+        padding: 0 15px;
+    }
+    .footer_part{
+        border-bottom: 1px solid #105d94;
+    }
+    .footer_social {
+        justify-content: center;
+        display:flex;
+    }
+    .footer_social img{
+        width: 25px;
+        margin: 0 17px ;
+        padding: 17px 0;
+    }
+  .footer_terms{
+        display: flex;
+        justify-content: space-around;
+        font-size: 12px;
+    } 
+    .footer_part img{
+        max-width: 140px;
+      }
+      .socialdesk{
+        display: none;
+      }
+
+ 
+}
+@media only screen and (max-width:480px){
+    .footer_part {
+        display:flex;
+        justify-content:center;
+        padding: 28px 20px;
+
+    }
+    .footer_part img{
+        padding: 0 15px;
+    }
+    .footer_part{
+        border-bottom: 1px solid #105d94;
+    }
+    .footer_social {
+        justify-content: center;
+        display:flex;
+    }
+    .footer_social img{
+        width: 18px;
+        margin: 0 17px ;
+        padding: 17px 0;
+    }
+    .footer_terms{
+        display: flex;
+        justify-content: space-around;
+    }
+     .development{
+        display: none;
+     }
+     .allright{
+        display: none;
+     }
+     .footer_terms{
+      font-size: 9px;
+    }
+    .footer_part img{
+        max-width: 105px;
+      }
+
+ 
+}
+@media only screen and (min-width:768px){
+    .footer_terms{
+        justify-content: space-between;
+        
+    }
+    .footer_terms div{
+        padding: 0;
+    }
+    .footerdesk{
+        background-color: #034c81 ;
+        min-height: 218px;
+    }
+    .footer_desktop{
+        justify-content: space-between;
+        padding: 62px 0 0 0px;
+    }
+    .footer_desktop01{
+        padding: 0 10;
+    }
+    .footer_social img{
+       max-width: 40px;
+    }
+    .footer_terms{
+        padding:12px 40px 38px ;
+        font-size: 15px;
+    }
+     .footerd{
+        display: flex;
+     }
+     .socialmob{
+        display: none;
+        
+     }
+     .socialdesk{
+        width: 25px;
+        float: right; 
+     }
+     .footer_social{
+        /* padding-right: 80px; */
+        
+     }
+     .footer_social img{
+        width: 25px;
+        float: right;
+        margin:  6px ;
+        /* padding: 25px 0; */
+    }
+    
+    
+}
+@media only screen and (min-width:769px){
+    .footer_part img{
+        max-width: 90px;
+       
+      }
+      .footer_social img{
+        width: 25px;
+        float: right;
+        margin:  6px ;
+        /* padding: 25px 0; */
+    }
+    /* .footer_social{
+        padding: 0 -50px 0px 0 ;
+        
+     } */
+     .footerd {
+        padding: 50px 70px;
+     }
+     .footer_social {
+       padding: 0 30px;
+     }
+     .footer_hub{
+        margin-left:35px;
+     }
+     .footer_part{
+        margin: 0 30px;
+     }
+
+
+}
+
+@media only screen and (min-width:991px){
+
+    .footerdesk{
+        background-color: #034c81 ;
+        min-height: 218px;
+    }
+    .footer_desktop{
+        justify-content: space-between;
+        padding: 62px 0 0 150px;
+    }
+    .footer_desktop01{
+        padding: 0 10;
+    }
+    .footer_social img{
+       max-width: 40px;
+    }
+    .footer_terms{
+        padding:12px 80px 38px ;
+        font-size: 16px;
+    }
+    .footerd {
+        padding: 50px 50px;
+     }
+     .footer_social {
+       padding: 0 90px;
+     }
+     .footer_part img{
+        max-width: 125px;
+      }
+    
+    
+    
+}
+
+@media only screen and (min-width:1200px){
+    .footer_terms{
+        padding:16px 150px 45px ;
+        font-size: 20px;
+    }
+ 
+     .footerd {
+        padding: 50px 120px;
+     }
+     .footer_social {
+       padding: 0 70px;
+     }
+     .footer_social img{
+        margin: 0 8px;
+        width:40px;
+      }
+      .footer_part img{
+        max-width: 191px;
+       
+      }
+    
+    
+}
